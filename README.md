@@ -4,7 +4,7 @@ This project is just a playground for testing a variety of React libraries.
 
 ## Libraries in this Playground
 1. Emotion
-2. date-fns
+2. date-fns & date-fns-t
 
 ## Available Scripts
 

@@ -18,7 +18,7 @@ function EmotionContainer() {
   }
 
   return (
-    <>
+    <section>
       <h2>1. Using Emotion to pass props into styled components.</h2>
       <Button
         backgroundColor={`${colors[currentIndex]}`}
@@ -26,7 +26,7 @@ function EmotionContainer() {
       >
         This button is {colors[currentIndex]}. Click it to make it {colors[nextIndex]}!
       </Button>
-    </>
+    </section>
   )
 }
 

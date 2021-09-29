@@ -2,6 +2,7 @@ import './App.css';
 import DateFNSContainer from './containers/DateFNSContainer';
 import EmotionContainer from './containers/EmotionContainer';
 import LodashContainer from './containers/LodashContainer';
+import ReactHookFormContainer from './containers/ReactHookFormContainer';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <EmotionContainer />
       <DateFNSContainer />
       <LodashContainer />
+      <ReactHookFormContainer />
     </div>
   );
 }

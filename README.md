@@ -6,6 +6,9 @@ This project is just a playground for testing a variety of React libraries.
 1. Emotion
 2. date-fns & date-fns-t
 
+## React Hooks in this Playground
+1. useReducer
+
 ## Available Scripts
 
 This project was built with Create React App and is a test playground that is not intended to be pushed to a production environment.
